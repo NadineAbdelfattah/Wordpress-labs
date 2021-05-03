@@ -1,0 +1,13 @@
+
+/*
+Theme Name:     Envo Storefront Child
+Theme URI:      http://example.com
+Description:    description
+Author:         Nadine
+Author URI:     http://example.com
+Template:       envo-storefront
+Version:        1.0.0
+Text Domain:    envo-storefront-child 
+*/
+
+@import url('../envo-storefront/style.css');
